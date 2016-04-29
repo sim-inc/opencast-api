@@ -1,6 +1,11 @@
 {
   "db": {
+    "host": "",
+    "port": 0,
+    "database": "opencast",
+    "password": "",
     "name": "db",
-    "connector": "memory"
+    "user": "",
+    "connector": "mongodb"
   }
 }
